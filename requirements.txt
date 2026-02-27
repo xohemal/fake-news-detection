@@ -1,0 +1,11 @@
+flask
+pandas
+numpy
+nltk
+scikit-learn
+tensorflow
+joblib
+feedparser
+requests
+transformers
+tf-keras
